@@ -4,9 +4,7 @@ title: Posibles proyectos
 layout: post
 ---
 1. Proyecto
-
 1.1. Posibles aplicaciones
-
 1.2. Ejemplos
 
 
@@ -21,11 +19,8 @@ a. Sintetizador
 3. Fotografia
 
 a. Desierto, en la carretera entre Hermosillo y Kino se puede encontrar buen material.
-
 b. Modelo
-
 b.1. Bailarina (alguna amiga)(tal vez llevarla al desierto)
-
 b.2. Todos los compas y hacer un collage 
 
 
@@ -33,7 +28,6 @@ b.2. Todos los compas y hacer un collage
 4. TRIZ para mejorar un producto o un sistema.
 
 a. tratadora de agua (muy técnico, mejor empezar con algo mas simple)
-
 b. 
 
 
