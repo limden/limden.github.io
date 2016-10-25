@@ -7,7 +7,7 @@ layout: post
 1.1. Posibles aplicaciones
 1.2. Ejemplos
 
-
+1.proy 2
 
 
 1. cuadro abstracto que represente el trabajo en equipo o un estudio sobre algún trabajo en equipo (ejemplo: el cuadro de la playa pero sobre un estudio del posicionamiento en el futbol)
