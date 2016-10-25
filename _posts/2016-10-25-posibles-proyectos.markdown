@@ -3,33 +3,30 @@ published: true
 title: Posibles proyectos
 layout: post
 ---
-1. Proyecto
-1.1. Posibles aplicaciones
-1.2. Ejemplos
+A. Proyecto
+1. Posibles aplicaciones
+2. Ejemplos
 
 
 
-1. cuadro abstracto que represente el trabajo en equipo o un estudio sobre algún trabajo en equipo (ejemplo: el cuadro de la playa pero sobre un estudio del posicionamiento en el futbol)
+B. Cuadro/pintura abstracto que represente el trabajo en equipo o un estudio sobre algún trabajo en equipo (ejemplo: el cuadro de la playa pero sobre un estudio del posicionamiento en el futbol)
 
-2. Soldar circuitos, 
-
-a. Sintetizador 
-
-
-3. Fotografia
-
-a. Desierto, en la carretera entre Hermosillo y Kino se puede encontrar buen material.
-b. Modelo
-b.1. Bailarina (alguna amiga)(tal vez llevarla al desierto)
-b.2. Todos los compas y hacer un collage 
+C. Soldar circuitos
+1. Sintetizador 
 
 
+D. Fotografia
+1. Desierto, en la carretera entre Hermosillo y Kino se puede encontrar buen material.
+2. Modelo
+3. Bailarina (alguna amiga)(tal vez llevarla al desierto)
+4. Todos los compas y hacer un collage 
 
-4. TRIZ para mejorar un producto o un sistema.
 
-a. tratadora de agua (muy técnico, mejor empezar con algo mas simple)
-b. 
+e. TRIZ para mejorar un producto o un sistema.
+
+1. tratadora de agua (muy técnico, mejor empezar con algo mas simple)
+2.  
 
 
 
-5. Danza teosofica
+f. Danza teosofica
