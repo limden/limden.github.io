@@ -3,11 +3,9 @@ published: true
 title: Posibles proyectos
 layout: post
 ---
-A. Proyecto
-
-a. Posibles aplicaciones
-
-b. Ejemplos
+1. Proyecto
+1.1. Posibles aplicaciones
+1.2. Ejemplos
 
 
 
