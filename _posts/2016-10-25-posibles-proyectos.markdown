@@ -52,3 +52,7 @@ f. Molde para vaciar concreto o tierra
 
 1. macetas ej. majui macetas
 2. cubos
+
+g. Reestructurar el lenguaje para ser más efectivos como equipo 
+
+h. Escribir el abstract de un proyecto 
