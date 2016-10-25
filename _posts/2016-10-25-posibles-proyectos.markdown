@@ -20,19 +20,23 @@ b. Soldar circuitos
 3. Cel?
 
 
-c. Fotografia
+c. Fotografia /Collage
 
-1. Desierto, en la carretera entre Hermosillo y Kino se puede encontrar buen material.
+1. Desierto, entre Hermosillo y Kino hay terreno.
 2. Modelo
 3. Bailarina (alguna amiga)(tal vez llevarla al desierto)
 4. Todos los compas y hacer un collage 
+5. Problema social 
+6. Sequía
+
 
 
 d. TRIZ para mejorar un producto o un sistema.
 
-1. tratadora de agua (muy técnico, mejor empezar con algo mas simple)
-2.  
-
+1. Tratadora de agua (muy técnico, mejor empezar con algo mas simple)
+2. Escalera
+3. Banqueta
+4. Paradas de camion
 
 
 e. Danza teosofica
