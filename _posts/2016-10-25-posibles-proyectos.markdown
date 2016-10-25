@@ -10,7 +10,14 @@ x. Proyecto
 
 
 
-a. Cuadro/pintura abstracto que represente el trabajo en equipo o un estudio sobre algún trabajo en equipo (ejemplo: el cuadro de la playa pero sobre un estudio del posicionamiento en el futbol)
+a. Cuadro/pintura abstracto
+
+1.  que represente el trabajo en equipo o un estudio sobre algún trabajo en equipo (ej. el cuadro de la playa pero sobre un estudio del posicionamiento en el futbol o en el tennis)
+2. Movimientos del Kung Fu
+3. Desierto
+4. Hogar
+5. Lo que mas placer te produce en la vida (ej. Helado de vainilla)
+6. Lo que mas te disgusta en la vida (ej. mentiras)
 
 
 b. Soldar circuitos
@@ -39,4 +46,9 @@ d. TRIZ para mejorar un producto o un sistema.
 4. Paradas de camion
 
 
-e. Danza teosofica
+e. Danza teosófica
+
+f. Molde para vaciar concreto o tierra
+
+1. macetas ej. majui macetas
+2. cubos
