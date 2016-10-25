@@ -3,8 +3,6 @@ published: true
 title: Posibles proyectos
 layout: post
 ---
-/Users/LuisEGM/Desktop/artworks-000145997830-rvkk60-t500x500.jpg
-
 x. Proyecto
 
 1. Posibles aplicaciones
