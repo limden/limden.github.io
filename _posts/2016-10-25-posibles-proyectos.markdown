@@ -3,10 +3,7 @@ published: true
 title: Posibles proyectos
 layout: post
 ---
-
-
-
-1. Cuadro/pintura abstracto
+a. Cuadro/pintura abstracto
 
 *  que represente el trabajo en equipo o un estudio sobre algún trabajo en equipo (ej. el cuadro de la playa pero sobre un estudio del posicionamiento en el futbol o en el tennis)
 * Movimientos del Kung Fu
@@ -16,14 +13,14 @@ layout: post
 * Lo que mas te disgusta en la vida (ej. mentiras)
 
 
-2. Soldar circuitos
+b. Soldar circuitos
 
 * Sintetizador 
 * Camara
 * Cel?
 
 
-3. Fotografia /Collage
+c. Fotografia /Collage
 
 * Desierto, entre Hermosillo y Kino hay terreno.
 * Modelo
