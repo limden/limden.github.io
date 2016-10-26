@@ -4,4 +4,5 @@ title: TRIZ basics
 layout: post
 ---
 Genrich Altshuller Teaching TRIZ
-http://youtu.be/zYkd6aVObMg
+
+* http://youtu.be/zYkd6aVObMg
