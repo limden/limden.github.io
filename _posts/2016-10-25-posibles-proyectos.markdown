@@ -3,11 +3,10 @@ published: true
 title: Posibles proyectos
 layout: post
 ---
-
-
 a. Cuadro/pintura abstracto
 
   que represente el trabajo en equipo o un estudio sobre algún trabajo en equipo (ej. el cuadro de la playa pero sobre un estudio del posicionamiento en el futbol o en el tennis)
+
 * Movimientos del Kung Fu
 * Desierto
 * Hogar
