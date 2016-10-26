@@ -1,12 +1,12 @@
 ---
 published: true
-title: Posibles proyectos
+title: Posibles proyectos 1
 layout: post
 ---
 a. Cuadro/pintura abstracto
 
 *  que represente el trabajo en equipo o un estudio sobre algún trabajo en equipo (ej. el cuadro de la playa pero sobre un estudio del posicionamiento en el futbol o en el tennis)
-* Movimientos del Kung Fu
+* Movimientos del Kung Fu (estudio de los movimientos vistos desde arriba observando el flujo de los movimientos hacia los 4 puntos cardinales)
 * Desierto
 * Hogar
 * Lo que mas placer te produce en la vida (ej. Helado de vainilla)
