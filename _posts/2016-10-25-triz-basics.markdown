@@ -5,4 +5,4 @@ layout: post
 ---
 Genrich Altshuller Teaching TRIZ
 
-* http://youtu.be/zYkd6aVObMg
+[Genrich Altshuller Teaching TRIZ](http://youtu.be/zYkd6aVObMg)
