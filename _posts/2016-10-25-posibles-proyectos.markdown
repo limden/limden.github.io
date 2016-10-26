@@ -3,9 +3,13 @@ published: true
 title: Posibles proyectos
 layout: post
 ---
-a. Cuadro/pintura abstracto
+- [x] This is a complete item
+- [ ] This is an incomplete item
 
-*  que represente el trabajo en equipo o un estudio sobre algún trabajo en equipo (ej. el cuadro de la playa pero sobre un estudio del posicionamiento en el futbol o en el tennis)
+
+- [ ]a. Cuadro/pintura abstracto
+
+  que represente el trabajo en equipo o un estudio sobre algún trabajo en equipo (ej. el cuadro de la playa pero sobre un estudio del posicionamiento en el futbol o en el tennis)
 * Movimientos del Kung Fu
 * Desierto
 * Hogar
@@ -13,14 +17,14 @@ a. Cuadro/pintura abstracto
 * Lo que mas te disgusta en la vida (ej. mentiras)
 
 
-b. Soldar circuitos
+- [ ]b. Soldar circuitos
 
 * Sintetizador 
 * Camara
 * Cel?
 
 
-c. Fotografia /Collage
+- [ ]c. Fotografia /Collage
 
 * Desierto, entre Hermosillo y Kino hay terreno.
 * Modelo
@@ -31,7 +35,7 @@ c. Fotografia /Collage
 
 
 
-d. TRIZ para mejorar un producto o un sistema.
+- [ ]d. TRIZ para mejorar un producto o un sistema.
 
 1. Tratadora de agua (muy técnico, mejor empezar con algo mas simple)
 2. Escalera
@@ -39,13 +43,13 @@ d. TRIZ para mejorar un producto o un sistema.
 4. Paradas de camion
 
 
-e. Danza teosófica
+- [ ]e. Danza teosófica
 
-f. Molde para vaciar concreto o tierra
+- [ ]f. Molde para vaciar concreto o tierra
 
 1. macetas ej. majui macetas
 2. cubos
 
-g. Reestructurar el lenguaje para ser más efectivos como equipo 
+- [ ]g. Reestructurar el lenguaje para ser más efectivos como equipo 
 
 h. Escribir el abstract de un proyecto
