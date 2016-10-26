@@ -3,11 +3,6 @@ published: true
 title: Posibles proyectos
 layout: post
 ---
-1. Item 1
-2. Item 2
-3. Item 3
-   * Item 3a
-   * Item 3b
 
 
 
@@ -28,14 +23,14 @@ layout: post
 * Cel?
 
 
-c. Fotografia /Collage
+3. Fotografia /Collage
 
-1. Desierto, entre Hermosillo y Kino hay terreno.
-2. Modelo
-3. Bailarina (alguna amiga)(tal vez llevarla al desierto)
-4. Todos los compas y hacer un collage 
-5. Problema social 
-6. Sequía
+* Desierto, entre Hermosillo y Kino hay terreno.
+* Modelo
+* Bailarina (alguna amiga)(tal vez llevarla al desierto)
+* Todos los compas y hacer un collage 
+* Problema social 
+* Sequía
 
 
 
