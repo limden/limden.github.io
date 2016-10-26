@@ -3,28 +3,29 @@ published: true
 title: Posibles proyectos
 layout: post
 ---
-x. Proyecto
-
-1. Posibles aplicaciones
-2. Ejemplos
-
-
-
-a. Cuadro/pintura abstracto
-
-1.  que represente el trabajo en equipo o un estudio sobre algún trabajo en equipo (ej. el cuadro de la playa pero sobre un estudio del posicionamiento en el futbol o en el tennis)
-2. Movimientos del Kung Fu
-3. Desierto
-4. Hogar
-5. Lo que mas placer te produce en la vida (ej. Helado de vainilla)
-6. Lo que mas te disgusta en la vida (ej. mentiras)
+1. Item 1
+2. Item 2
+3. Item 3
+   * Item 3a
+   * Item 3b
 
 
-b. Soldar circuitos
 
-1. Sintetizador 
-2. Camara
-3. Cel?
+1. Cuadro/pintura abstracto
+
+*  que represente el trabajo en equipo o un estudio sobre algún trabajo en equipo (ej. el cuadro de la playa pero sobre un estudio del posicionamiento en el futbol o en el tennis)
+* Movimientos del Kung Fu
+* Desierto
+* Hogar
+* Lo que mas placer te produce en la vida (ej. Helado de vainilla)
+* Lo que mas te disgusta en la vida (ej. mentiras)
+
+
+2. Soldar circuitos
+
+* Sintetizador 
+* Camara
+* Cel?
 
 
 c. Fotografia /Collage
@@ -55,4 +56,4 @@ f. Molde para vaciar concreto o tierra
 
 g. Reestructurar el lenguaje para ser más efectivos como equipo 
 
-h. Escribir el abstract de un proyecto 
+h. Escribir el abstract de un proyecto
